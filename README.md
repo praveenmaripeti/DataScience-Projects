@@ -1,1 +1,1 @@
-# DataScienceProjects
+This repository contains my data science projects
